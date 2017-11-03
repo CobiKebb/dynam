@@ -2,14 +2,14 @@ package dynWebProject;
 
 public class classeA {
 
-	String nom;
+	String nomm;
 	String prenom;
 	
 	public String getNom() {
-		return nom;
+		return nomm;
 	}
 	public void setNom(String nom) {
-		this.nom = nom;
+		this.nomm = nom;
 	}
 	public String getPrenom() {
 		return prenom;
