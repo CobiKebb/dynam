@@ -1,6 +1,6 @@
 package dynWebProject;
 
-public class classeA {
+public class ClasseA {
 
 	String nomm;
 	String prenom;
