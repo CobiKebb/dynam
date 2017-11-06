@@ -2,7 +2,7 @@ package dynWebProject;
 
 public class classeA {
 
-	String nomm
+	String nomm;
 	String prenom;
 	
 	public String getNom() {
